@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: aquamarine;
+}
+
+.heading,h1,h2{
+    background-color: rgba(194, 65, 5, 0.781);
+    padding: 10px;
+}
+
+a{
+    padding: 10px;
+    color: rgb(228, 12, 131);
+    text-decoration: none;
+    font-size: 25px;
+
+}
+
+ul,ol{
+    padding: 20px;
+    margin-left: 1rem;
+}
+
+li{
+    margin: 10px;
+}
+
+.background-blue{
+    background-color: rgba(0, 0, 160, 0.603);
+}
+
+li h3{
+    background-color: #3ef047;
+}
+
+ol p, ul p,ul li, ol li{
+    background-color: gold;
+    padding: 3px;
+}
